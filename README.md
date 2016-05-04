@@ -43,3 +43,12 @@ Por último, en el directorio del servidor disponemos de un fichero llamado [sup
 ```
 sudo supervisord -c supervisor.conf
 ```
+----
+Este proyecto está financiado por la Convocatoria de Actuaciones Avaladas para la Mejora Docente del curso 2015/16 de la Universidad de Cádiz, en el marco de la Actuación "__Fomento de la interacción mediante smartphones para la mejora del aprendizaje de lengua extranjera__" (código sol-201500054163-tra)
+
+Participantes en el proyecto:
+* Anke Berns: coordinadora del proyecto (Departamento de Filología Francesa e Inglesa)
+* Manuel Palomo Duarte: participante en el proyecto (Departamento de Ingeniería Informática)
+* José Luis Isla Montes: participante en el proyecto (Departamento de Ingeniería Informática)
+* Owayss Kabtoul: administrador técnico y desarrollador
+* Javier Osuna Herrera: desarrollador
