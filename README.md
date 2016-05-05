@@ -50,5 +50,12 @@ Participantes en el proyecto:
 * Anke Berns: coordinadora del proyecto (Departamento de Filología Francesa e Inglesa)
 * Manuel Palomo Duarte: participante en el proyecto (Departamento de Ingeniería Informática)
 * José Luis Isla Montes: participante en el proyecto (Departamento de Ingeniería Informática)
-* Owayss Kabtoul: administrador técnico y desarrollador
 * Javier Osuna Herrera: desarrollador
+* Owayss Kabtoul: administrador técnico y desarrollador
+
+
+Estudiantes de la Universidad de Cádiz que colaboraron:
+* Alicia Garrido Guerrero (Departamento de Filología Francesa e Inglesa)
+* Mercedes Paéz Piña (Departamento de Filología Francesa e Inglesa)
+* Salvador Reyes Sánchez (Departamento de Filología Francesa e Inglesa)
+* Federico Carrillo Chaves (Departamento de Ingeniería Informática)
